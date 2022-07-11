@@ -76,9 +76,8 @@ body {
 }
 #recipes{
     /* margin: 0 170px; */
-    
-    width: 30%;
-    margin: 0 auto 0 auto;
+    width: 46%;
+    margin: 0 20px 0 20px;
     margin-top: 5%;
     padding-left: 20px;
     border-radius: 10px;
