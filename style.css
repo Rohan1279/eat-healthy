@@ -74,7 +74,7 @@ body {
     display: flex;
     /* margin: 90px 120px; */
 }
-#recipes{
+.recipes{
     /* margin: 0 170px; */
     width: 46%;
     margin: 0 20px 0 20px;
@@ -83,7 +83,7 @@ body {
     border-radius: 10px;
     box-shadow: 1px 1px 50px rgb(219, 219, 219);
 }
-#recipes img{
+.recipes img{
 
     width: 96%;
     border-radius: 10px;
@@ -92,9 +92,15 @@ body {
     /* image-resolution: 300dpi snap; */
     /* border:5px solid black; */
 }
-#recipes-text{
+.recipes-text{
     text-align: left;
     padding: 5px;
+}
+#recipe-1{
+   margin-left: 10%;
+}
+#recipe-2{
+   margin-right: 10%;
 }
 .social-media{
     display: flex;
