@@ -46,6 +46,10 @@ body {
     background-repeat: no-repeat;
     margin-bottom: 50px;
 }
+.secend p:nth-of-type(1) {
+    font-size: 16px;
+    color: grey;
+}
 .secend img{
     /* display: flex; */
     width: 48.3%;
